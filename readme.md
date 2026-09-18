@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # ✦ Trishita Acharjee
 
@@ -16,7 +16,7 @@ API-based Applications
 Cloud Technologies
 Technical Research
 ## Portfolio
-Visit my portfolio: https://trishitaacharjee.github.io/Trish-Portfolio/
+Visit my portfolio: https://trishitaacharjee.github.io/Portfolio_TA/
 
 ## Featured Work
 ## Medical Image Segmentation
